@@ -36,7 +36,7 @@ public class Quiz extends JFrame implements ActionListener {
     public static int score = 0;    
     public static int count = 0;
 
-     public static int maxQuestions =10;
+     public static int maxQuestions = 10;
     public static int timeTaken; // Track the time taken to complete the quiz
     String name;
      
