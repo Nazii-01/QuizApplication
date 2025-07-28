@@ -46,7 +46,7 @@ Includes option to clear or reset the leaderboard.
 ![Quiz](screenshots/quiz.png) 
 
 ### 🔹 Lifeline in Action
-![Lifeline](screenshots/quiz with lifeline.png) 
+![Lifeline](screenshots/quiz2.png) 
 
 ### 🔹 Score Display
 ![Score](screenshots/score.png)
