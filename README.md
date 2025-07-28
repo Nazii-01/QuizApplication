@@ -1,4 +1,4 @@
-#🎮 Simple Minds - Java Swing Quiz Application#
+🎮 Simple Minds - Java Swing Quiz Application#
 Welcome to Simple Minds, a Java Swing-based desktop quiz game that challenges your programming knowledge in a fun and interactive way. This application includes time-based questions, dynamic options, and a competitive leaderboard.
 
 🖼️ Overview
