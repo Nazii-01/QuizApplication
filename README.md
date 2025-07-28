@@ -34,3 +34,22 @@ Sorted by score and time taken.
 Stores user name, score, and completion time.
 
 Includes option to clear or reset the leaderboard.
+## 📸 Screenshots
+
+### 🔹 Login Screen
+![Login](screenshots/welcome.png) 
+
+### 🔹 Rules Display
+![Rules](screenshots/rules.png)
+
+### 🔹 Quiz in Progress
+![Quiz](screenshots/quiz.png) 
+
+### 🔹 Lifeline in Action
+![Lifeline](screenshots/quiz with lifeline.png) 
+
+### 🔹 Score Display
+![Score](screenshots/score.png)
+
+### 🔹 Leaderboard
+![Leaderboard](screenshots/leaderboard.png)
