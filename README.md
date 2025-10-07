@@ -29,11 +29,11 @@ Fun and quirky rule display screen before the quiz begins.
 
 - Leaderboard:
 
-Sorted by score and time taken.
+- Sorted by score and time taken.
 
-Stores user name, score, and completion time.
+- Stores user name, score, and completion time.
 
-Includes option to clear or reset the leaderboard.
+- Includes option to clear or reset the leaderboard.
 ## 📸 Screenshots
 
 ### 🔹 Login Screen
