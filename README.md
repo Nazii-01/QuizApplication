@@ -18,7 +18,7 @@ A Leaderboard that tracks users by score and completion time.
 
 Fun and quirky rule display screen before the quiz begins.
 
-# ** Features**
+# **Features**
 - Java Swing GUI: Built entirely using Java Swing for a responsive desktop interface.
 
 - Dynamic Options: Each time a question appears, its answer options are randomly shuffled—even if the same question appears again.
