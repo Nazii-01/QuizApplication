@@ -34,22 +34,22 @@ Fun and quirky rule display screen before the quiz begins.
 - Stores user name, score, and completion time.
 
 - Includes option to clear or reset the leaderboard.
-## 📸 Screenshots
+##  Screenshots
 
-### 🔹 Login Screen
+### Login Screen
 ![Login](screenshots/welcome.png) 
 
-### 🔹 Rules Display
+### Rules Display
 ![Rules](screenshots/rules.png)
 
-### 🔹 Quiz in Progress
+### Quiz in Progress
 ![Quiz](screenshots/quiz.png) 
 
-### 🔹 Lifeline in Action
+### Lifeline in Action
 ![Lifeline](screenshots/quiz2.png) 
 
-### 🔹 Score Display
+### Score Display
 ![Score](screenshots/score.png)
 
-### 🔹 Leaderboard
+### Leaderboard
 ![Leaderboard](screenshots/leaderboard.png)
